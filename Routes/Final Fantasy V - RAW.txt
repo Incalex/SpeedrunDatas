@@ -1,0 +1,1158 @@
+    Final Fantasy 5 - Throwing rods and sh*t
+    
+Tycoon Meteor
+    Menu
+        Bat.Mode    Wait
+        Bat.Speed   4
+        Msg.Speed   1
+        Cmd.Set     Window
+        Gauge       On
+        Sound       Stereo
+        Cursor      Memory
+        Reequip     Empty
+        Controller  Single
+    
+    Fight - Goblin
+        Spam Attack
+        
+    Récuperer le coffre Bas-Droite
+    Quitter la zone
+
+World Map
+    Gauche-Haut
+    
+Zone avant-grotte
+    Spam Attack
+
+World Map
+    Haut, vers Grotte
+    
+Grotte des pirates
+    Fuir tout les fights
+    Chemin direct, osef des coffres
+    Bateau : Aller direct au gouvernail
+ 
+World Map
+    Le pirate nous guide, plus simple
+    Foncer direct au temple
+    
+Temple du vent
+    BESOIN DE BUTER UN COMBO WhiteSnake + BlackGoblin, le reste : FUIR
+
+    1F - Aller a droite
+    2F - Porte du milieu, Descendre, Porte a gauche
+    3F - Besoin d'aller a la salle a gauche, PAS BESOIN DE FAIRE LE FUCKING TOUR, passer a travers le mur
+    Salle de gauche - Prendre le coffre, Optimal sur Galuf
+    3F - Aggro le boss
+    Wingrapter - Spam Attack
+    Le reste - chemin direct et simple jusqu'au cristal
+    Après cutscene
+        Thief - Bare - Bare - BlackM (Back)
+    Sortir (NON AU FUCKING TUTO)
+    
+World Map
+    Prendre le bateau, longer la cote de gauche jusqu'au village
+    
+Tule Village
+    Beginner Hall
+        Prendre tous les coffres et fouiller les caisses JUSTE en dessous, aller a l'étage
+        Mettre TOUT LE MONDE EN MAGE BLEU (+vitesse combat 1/Actif), ouvrir le coffre, APPRENDRE GoblinPunch
+        Mettre tout le monde en BlackM (sauf Reina : Thief) et A L'ARRIERE ! (+vitesse combat 4/Wait)
+        Sortir
+     
+    Aller vers la maison du haut, avant le pont, Fouiller caisse HAUT-GAUCHE, puis traverser le pont
+    Apres dialogue, avant d'entrer dans la maison, longer a gauche vers les arbres puis aller a droite DERRIERE l'arbre
+    Fouiller les herbes (Phoenix Down), puis aller dans la maison
+    
+    Après tous les dialogues, repasser le pont, a droite, boutique magie
+    
+    Magie
+        Acheter Fire, Bolt, Cure, Antdot
+        
+    Sortir du village
+    
+World Map
+    Prendre le bateau, droite, aller dans le petit canal
+    
+Torna Canal
+    Fuir tous les combats
+    Après le long couloir a droite, pile au passage d'une case
+    Thief -> BlackM
+    
+    Karl Boss
+        Spam Bolt
+        
+    Après tout les dialogues
+        SECOND BlueM (Optimize) - FIRST BlueM (Optimize) - THIRD BlueM (Optimize) - LAST Thief (Optimize)
+        
+Ship Graveyard
+    Fuir tous les combats 
+    
+    Tout a droite, remonter et ouvrir la porte
+    
+    Bateau
+        Tout a droite
+        Descendre, aller dans l'eau, sortie en bas a droite
+        Escalier juste au milieu, fouiller la caisse, remonter escalier du milieu, aller en haut, prendre la porte du haut
+        Descendre l'escalier de gauche, prendre le coffre du milieu de la pièce, puis ressortir par la ou on est rentré
+        Aller dans l'entrée juste en bas
+        Tout droit vers le bas jusqu'au bout, puis escalier a droite
+        Longer a gauche et monter les premiers escaliers
+        Un coup a gauche, sortir vers le bas
+        Descendre, dialogue, sortir par la porte de droite
+        Escaliers en haut
+        Tout droit en haut
+        Tout droit en haut
+    
+    Mat a droite, aller vers le bas (ou il y a de l'eau) jusqu'au bout, sauter sur le bateau, direct a droite vers les pierres
+    Ouvrir le coffre, longer le bateau vers la gauche, sauter sur les pierres, scene de méduse
+    
+    Siren
+        Thief - Attendre au cas ou, Defense
+        BlueM - Spam GoblinPunch
+        
+    Sortir tout droit
+    
+World Map
+    Fuir tout combat
+    Aller a Carwen (rester dans le vert au maximum) : Tout en bas quasiment
+    
+Carwen
+    Ne pas monter, tunnel de droite, longer a droite derrière la maison, descendre entre les deux caisses, fouiller la caisse tout en bas.
+    Demi-tour pour sortir
+    
+World Map
+    Fuir tout combat
+    Aller a North Mountain
+    
+North Mountain
+    Fuir tout combat
+    BlackM - BlackM - BlackM - Thief (Optimize)
+    
+    Entrée
+        Haut, longer a gauche des que possible, sortie a gauche visible
+        
+    Dehors
+        Tuer un combo RockCutterx2 + Ghilacat en spam Feu sur tous ennemis, le Thief tape le Chat en Attack
+        Gauche, suivre le chemin vers haut-droite jusqu'a la grotte
+        
+    Grotte
+        Droite, descendre escalier, droite, monter et aller a la sortie
+       
+    Dehors
+        Rush droite, osef des plantes, monter (passer le pont), gauche, entrer dans la grotte
+     
+    Grotte
+        Sortir vers la gauche
+        
+    Dehors
+        Gauche, cutscene
+    
+    Magis
+        Faris devrait mourrir, sinon PhoeinxDown sur le mort -- Pas necessaire on dirait
+        Ice Rod that bitch -- Bitches loves Ice Rods in da face
+        
+    Continuer le chemin jusqu'a la scène du dragon
+    
+World Map
+    Descendre a peu pres tout droit vers le chateau
+    
+Worus Castle
+    Tout droit
+    
+    2nd Floor
+        Porte de droite, escalier tout a droite
+        
+    Storehouse
+        fouiller : Tonneau tout a gauche, Caisse au fond, Tonneau a droite
+        
+    Demi tour jusqu'au couloir principal : aller tout droit, cutscene, tracer vers le bas
+    
+World Map
+    Prendre le dragon et aller a la tour (un peu plus haut)
+    
+Tower of Worus
+    Galuf -> Thief
+    Toujours FUCKING TOUT DROIT pendant un long moment
+    
+    Piece ou y a de l'eau et des liannes : Celle de droite a monter
+    Ouvrir le coffre PUIS monter les escaliers
+    NE PAS FUCKING BOUGER si entré dans la pièce
+        Penser a prendre Galuf par exemple et Antidot les empoisonnés
+        BlueM (Optimize) - BlueM (Optimize) - Knight (Optimize First SANS ARME) - Cadavre lol
+        Tonic on Knight (needed)
+        
+    Garula
+        BlueM : Spam GobPunch
+        Knight : PROTECT YOUR FRIENDS with !Guard
+        
+    Cutscene
+    BlackM - BlackM - Thief - Still dead lol
+    TAKE THOSES FUCKING SHARDS
+    Cutscene again
+
+World Map
+    Aller au météore
+
+Meteor at Worus
+    Toujours tout droit !
+    
+Meteor at Kranak (after tp)
+    Sortir !
+    
+World Map
+    Sur le chemin, faire 2x un combat 5x Dogs : Fire All (Faris ne doit pas pex, la tuer ?, apparament c'est pas génant)
+    Aller a Karnak VILLE (monter, gauche des que y a la foret, et essayer de descendre)
+    
+Karnak
+    Boutique d'armes (a gauche)
+        Vendre : 
+            Whip, Leather Armor, Tent (en garder 2), Ether (all), Broadsword, LetherShield, Mythril Helmet, Bronze Armor, 2 Phoenix Down
+            (Garder un Knife)
+            (avoir ~7000 GP - ABSOLUEMENT NECESSAIRE : 6607GP)
+        Acheter :
+            Fire rod (cutscene car on se fait choper) (187GP)
+            
+Karnak Castle
+    Cell
+        Attendre (se déplacer d'une case a gauche), parler a Cid, cutscene
+        Sortir par la droite, toujours tout droit
+        Lorsque l'on sort par la gauche : escaliers montants, ensuite suivre le tapis vers le bas pour sortir.
+        Sortir et aller a Karnak
+        
+Karnak
+    Boutique d'armes
+        Acheter :
+            1x Fire rod (DOIT DEJA EN AVOIR UN)
+            5x Ice rod
+            Total : 4500GP
+            
+            
+    Boutique de magies (a droite)
+        Acheter Droite : Haste (320GP)
+        Acheter Milieu : Fire2 + Sleep (600+300GP)
+        Acheter Gauche : Raise (700GP)
+        Total : (1920GP)
+        
+    Sortir de la ville et aller au bateau
+    
+Bateau
+    Cutscene, passer la porte
+    Foncer a droite (descente escaliers)
+    Tout droit vers le bas, premiers escaliers visibles
+    
+    Premiere salle "mécanique" : Foncer a gauche, monter escaliers, haut, escaliers a droite (montant), passer la porte
+    Ascenceur : Activer
+    Etage : Prendre le coffre a droite (osef de la map), foncer a gauche puis monter
+    Ascenceur : Activer
+    Piece : A gauche, monter l'escalier/enter dans le canal, suivre le canal
+    Sortit du canal : Porte tout droit
+    Ascenceur : Activer
+    Sortit de l'ascenceur : CANAUX 1 - 2 - 3 - 4, prendre le 2 (Dash bouton accelle la scene)
+    Chute : Porte juste en haut, puis porte de gauche
+    Savepoint : Tent ! Puis tout droit en haut
+    Piece zarb : Bloc de gauche : Interrupteur bas, haut, puis gauche, traverser le "pont", activer les deux interrupteurs.
+                 Se mettre sur le bloc qui peut monter, activer interrupteur, prendre le coffre puis passer la porte
+    Piece du cristal : NE FUCKING PAS BOUGER
+        Galuf -> BlueM
+        
+    LiquidFlame
+        ICE ROD THAT SHIT, si il se transforme en main, attaque normale, sinon ICE ROD AGAIN
+        
+    Foncer tout en haut, cutscene
+    
+Karnak Castle
+    10 MIN BEFORE EXPLOSION
+        Memo Save au savepoint (a droite)
+        A -> RedM !Black + Fire Rod
+        
+    Prison : sortir du couloir, a gauche, ouvrir la porte, prendre le coffre, retourner a gauche et suivre le chemin
+    Tout droit
+    Faire le tour, porte que l'on voit en dessous
+    Idem, aller a l'escalier visible
+        Si combat : Fire2 all et Bolt sur Faris (DOIT PAS PEX FU !)
+    Piece au tapis, porte de gauche, monter, coffre juste a gauche, demi tour
+    Piece au tapis, meme porte a droite, monter, coffre juste a droite, demi tour
+    Piece au tapis, descendre pour sortir
+    Avant de passer la dernière porte : Reina Mage : rez faris si necessaire, heal everyone, puis reBlackM
+    Combat :
+        RedM : Fire2 All
+        BlackM : Fire Sergeant
+        BlueM : ICE ROD
+    
+    FARIS DOIT ETRE LEVEL 5 (MERDE NOIRE SI C'EST PAS LE CAS)
+    
+World Map
+    BlueM - BlackM - BlueM - Thief
+    Aller gauche, descendre, droite vers Ancient Library
+    
+Ancient Library
+    Foncer a l'étage, fouiller le pot (PUR HEAL), descendre, echelle a gauche descendre, passer la porte
+    Foncer tout droit sur l'étagere, puis trou a gauche, puis a fond a droite passer le trou, trou, monter, aller a droite, droite (pas descendre), puis descendre, clic sur la dalle zarb et sortir de la piece
+    Descendre, foncer a droite (coffre), revenir a gauche, descendre
+    Descendre, echelle, clic au niveau des livres
+    Suivre le chemin jusqu'au bouquin rouge
+    
+    Ifrit
+        Rez le mort, deux ice rod dans sa gueule et il fera moins le malin !
+        
+    RedM + !Black - Trainer - Thief - BlueM
+    
+    Au premier combat Page 64
+    RedM : Fire x2
+    CATCH QUAND LV5 DOOM A TUE FARIS
+    (Rez les morts + tonic si <50HP)
+    
+    Revenir sur ses pas jusqu'a descendre l'echelle, passer la porte juste a coté
+    Aller au trou qui descend a gauche, prendre le coffre, aller au trou du haut cette fois
+    Descendre les escaliers, a gauche, descendre, ouvrir le coffre, premiere a droite (ne pas remonter les escaliers)
+    EZ
+    Gauche, rester a gauche (ca va bouger), droite (monter l'echelle, descendre, monter l'echelle a droite bouton action (ne pas sortir en bas)
+    Savezone : MEMO (on peut se faire OS), sortir
+    Porte a gauche
+    NE PAS BOUGER : Reina WhiteM, rez Faris
+    BlackM - Black M - BlackM - Thief
+    
+    Biblos :
+        FIRE ROD x2
+        (Faris rez si besoin)
+        
+    Cutscene, sortir droit en bas
+
+World Map
+    Remonter a Karnak
+    
+Karnak
+    Boutique d'armes :
+        3x Fire Rod
+        2x Lightning Rod
+		
+	Aller au PUB : Etage, cutscene, sortir de la ville
+	
+World Map
+	Aller au bateau
+	
+Bateau a vapeur
+	Cutscene, aller dans le bateau (porte), cutscene, parler a Cid, cutscene again !
+	
+World Map
+	Aller au menu régulièrement afin de remettre le threat level a 0
+	Aller a l'ile ou y a la f'cking foret de chocobos (J'regarderais ma fucking map, c'est loin ...)
+	
+Cresent
+	Cutscene, ressortir, aller a la foret des chocobos
+	
+Foret des chocobos
+	CHOPER CE PUTAIN D'ENCULE VIOLET !
+	Fucking Cutscene AGAIN !
+	
+World Map 
+	Aller a Lix
+	
+Lix
+	Boutique d'armes
+		Vendre :
+			Fire Bow, Hard Body, Ninja Suit, Leather Sh*t
+			
+		Acheter :
+			Lightning Skill x32 (6400 GP)
+			Water Skill x2 (400 GP)
+			
+	Boutique diverse
+		Acheter :
+			TAKE ALL THE TONICS !
+			( 20 dans la run de puwexil soit 400 GP)
+			
+	Total des achats : NEED >6800 GP - Ideal : 7000-7200GP
+	
+World Map
+	Chocobo noir
+		Aller a l'ile JUSTE au sud de Cresent
+        
+        Thief - Trainer - BlueM - Ninja
+        
+		Farmer les combats au Lightning Skill
+		
+		Apres 10 combats
+			BlueM - BlueM - Ninja + Learning - Thief
+		Apprendre Black Shock
+			BlackM - Ninja !Black - Ninja !Black - Thief !Flee
+	
+	Reprendre le chocobo noir vers Ancient Library
+	
+Ancient Library
+	Cutscene, sortir
+	
+World Map
+	Aller au petit passage a gauche, suivre le chemin
+	
+Quicksand Desert
+	Cutscene
+	
+	Sandworm
+		Water Skill x2 + Fire2 si not enough damage !
+	
+	Suivre le chemin du ver, foncer a droite sans descendre TOUT en bas (hauteur juste avant)
+	Glisser en bas
+	Glisser en bas
+	Glisser en bas
+	Glisser en bas coté gauche
+	
+World Map
+	Ninja !Black - Trainer - BlueM - NoChange
+	Tonic dat party ! >150HP
+	
+Ruin of Lonka
+	Cutscene, aller a gauche, cutscene, revenir au milieu et monter.
+	
+	Cutscenes, suivre le chemin, cutscene du tp, suivre le chemin, activer le bouton, cutscene
+	Suivre le chemin, cutscene, descendre dans le vaisseau, cutscene, boss
+	
+Clay Claw
+	Thief : Mettre le couteau genre 2e position, puis l'équiper
+	Ninja : Jeter le couteau ??? 
+	Trainer : Soigner si besoin
+	
+	Thief : Voler la Coral Sword
+	
+	Si raté, utiliser tonic sur <50HP, et Def
+	Sinon, Jeter la Coral Sword
+	
+	BlueM : LIGHTNING ROD THAT SHIT !
+	
+	Cutscenes
+	
+World Map
+	Aller a Ruin of Lonka
+	Cutscene
+	Revenir la ou on chope le vaisseau, cutscene
+	Aller au Meteor at Tycoon
+
+Meteor at Tycoon
+	Avant tout, Reina WhiteM : cure everything (PV > 300), puis Trainer again
+	Foncer dans le meteore, prendre le caillou
+	
+	Adamantaim
+		Lv5 Doom ... WTF ?
+		
+	BlueM -> Ninja !Black
+	
+	Sortir du Meteor
+	
+World Map
+	Aller la ou on chope le vaisseau, cutscenes AGAAAAAAAAAAAAAAAAAAAAAAAAAAAIN
+	Aller plus haut dans les airs
+	
+	Faire les canons : Lightning Skill x2 Chacun
+
+	Avant le canon principal
+		Reina -> Ninja !Black
+		
+	Soul Gun + Launcher
+		Ninja : Lightning Skill
+		Thief : Steal
+		
+	Entrer dans la forteresse
+	
+Ruins of Ronka
+	Descendre, gauche, remonter, passer la porte a gauche
+	Suivre le chemin a droite, descendre, porte en bas (osef du coffre)
+	Gauche, descendre, gauche, monter par le chemin le plus a gauche, premier chemin en haut (la 2e porte save point)
+	Droite, monter
+	Porte a gauche
+	Porte en bas
+	Droite, passer la porte, escalier direct a gauche
+	Coffre en haut, prendre les escaliers a droite
+	Descendre, gauche, monter les escaliers
+	SALLE DES COFFRES : Un pas a gauche, Haut foncer vers les coffres, TAKE EVERYTHING, puis descendre pour tomber
+	Escaliers a gauche
+	Passer la porte a droite, porte en bas
+	Premiers escaliers a gauche
+	Passer la porte en bas, PAS TOMBER, foncer a gauche, passer les deux portes puis sortir de la zone
+	Passer la porte a gauche, suivre le chemin
+	Passer la porte a droite, descendre, passer la porte en bas, activer le bouton, sortir en bas
+	Se mettre juste avant les deux statues
+	
+	NoChange - Geomancr - BlueM - Geomancr
+	
+	Archeoavis
+		Ninja : Lightning Skillx2 + Shuriken
+		Geomancr : 1 def puis Earth a chaque fois
+		BlueM : 1e tour : FIRE ROD DAT SHIT, 2e tour : LIGHTNING ROD DAT SHIT 
+		
+		Apres sa mort
+		Lv5 Doom LOL
+		
+	Galuf -> Thief, monter, cutscenes
+	
+TONS OF CUTSCENES
+
+World Map
+	Aller au Meteor at Tycoon
+	
+Meteor at Tycoon
+	BlueM - Samurai - Chemist Dash (a tester direct Samurai Dash)
+	Aller dans le méteore, cutscene, sortir
+	
+World Map
+	Aller au Meteor at Worus
+	
+Meteor at Worus
+	Byurobolos
+		$toss ... POWER OF MONEY BITCH
+	Chemist Dash -> Samurai Dash
+	BlueM -> WhiteM : Full heal les Samurai -> BlueM
+		
+		
+World Map
+	Aller au Meteor at the Ruins
+	
+Meteor at the Ruins
+	KimaBrain
+		$toss x2 ... SHUT UP AND TAKE MY MONEY
+	BlueM -> WhiteM : Full heal -> Lancer
+	
+World Map
+	Aller au Meteor at Karnak
+	
+Meteor at Karnak
+	Lancer : Jump
+	$toss x2 quand le Lancer est en l'air
+	
+World Map
+	Suivre un peu la cote vers Bas-Droite, jusqu'a trouver un genre de trou dans la terre.
+	Se poser et y aller
+	
+#######################################
+	END OF WORLD 1 - Split a l'écran noir
+	
+	WORLD 2
+#######################################
+
+World Map
+    Lancer -> BlueM Optimize
+    Use Tent
+    
+    Abductor : GobPunch yourself
+    
+    Cutscenes
+    
+Exdeath Castle
+    Rush Gauche, escalier en bas
+    Rush Droite
+    Un coup en haut puis full gauche, escaliers
+    En bas a droite, JUSTE AVANT D'ETRE VISIBLE
+        Galuf -> Samurai
+    Gilgamesh : $toss
+    
+    Ninja - NoChange - NoChange - Thief
+   
+    Demi tour
+    En bas a droite
+    Rush Gauche
+    A droite, premier trou en bas
+    
+World Map
+    Bas, droite, aller sur le pont
+    Avant le pont : Memo save
+    
+Big Bridge
+    Rush tout droit !!!
+    Premier combat : Ninja : Lightning Skill
+    Juste apres : Gauche, suivre jusqu'a la prochaine tour (au niveau du haut de la premiere muraille), droite, rush en haut, ouvrir la porte
+    Avant d'ouvrir la porte : Non Samurai -> Samurai (+ Dash pour Faris), soigner un peu aux popos
+    
+    Gilgamesh
+        Spam $toss
+        
+    Rez les morts + soin vers ~200HP
+    Chemist - Trainer - BlueM - Thief !Flee
+    
+    Apres etre sortit, direct a gauche, passer tout a droite une casse avant le haut de la muraille, deux cases apres la 2e muraille, milieu, rush haut, cutscenes
+    
+World Map
+    Aller a droite (passer par le haut de la 1e montagne), descendre lorsque Rugar visible, a droite peu apres Kuzar, remonter puis aller dans la petite foret
+    
+Cave after forest
+    Droite/bas, deuxième arret, aller tout a droite et prendre le coffre puis se jeter dans la cascade.
+    Une fois dans une grosse plateforme, rush droite puis haut (monter escaliers)
+    Apres le "Moggle : Kupo Kupo" : MENU
+    NoChange - NoChange - NoChange - Chemist Dash
+    
+    Tyrasaurus
+        Chemist : Item -> Phoenix Down ON DA BOSS (op ...)
+        
+    Faris -> Thief !Flee
+    Sortir
+    
+World Map
+    Faire le trajet du mog
+    
+Moggle Forest
+    Aller a droite, essayer de rentrer, parler au mog, entrer dans l'arbre, (de gauche a droite) tout prendre sauf le 4e
+    
+    TONS OF CUTSCENES
+    
+Castle Bal
+    Rush a gauche, coffre caché, rush a droite
+    Milieu, couloir qui monte
+    En bas
+    Parler a Krile, remonter
+    Demi tour quoi
+    Rush en bas a droite
+    Sortie en bas
+    Again
+    Rush a gauche puis sortie principale. Une case avant les gardes :
+    Farris -> Samurai
+    
+    Abductor
+        $toss lol
+        
+    Samurai - Samurai - BlueM - Thief !Flee
+    
+World Map
+    Monter a Kelb
+    
+Kelb
+    Gauche, entrer dans la maison/pont
+    Avancer, puis ressortir, TONS OF CUTSCENES !!!
+    Sortir a gauche, puis tout droit vers le bas
+    Sortir vers le haut
+    
+World Map
+    En haut, Hiryuu Valley
+
+Hiryuu Valley
+    Droite, haut (pas rentrer dans la grotte),haut grotte visible
+    Rush logique, droite, haut, droite, haut, sortie a gauche
+    Grotte juste a droite
+    En bas, osef du coffre
+    Gauche (traverser le pont), bas, une seule entrée lol
+    Gauche ... ofc
+    Gauche, descendre, droite, looter le deuxième squelette en partant du bas (coté droit), puis grotte visible proche
+    Droite, vers le milieu, va tomber dans un trou
+    Ouvrir le coffre, porte a gauche
+    Activer le bouton, demi-tour
+    Sortir par le haut cette fois
+    Sortir a gauche
+    Aller a l'ouverture a droite
+    Descendre les escaliers a gauche, ouvrir le coffre a gauche, aller aux escaliers a droite, ouvrir le prochain coffre, prendre la sortie de gauche, pas celle juste en bas
+    Droite, avant la petite fente Faris -> Ninja Dash
+    
+    Drgn Grass
+        LightningSkill lorsque Drgn Bulb spawned
+        $toss DAT SH!T x2
+        FireSkill au 2e tour
+        $toss AGAIN x2
+        
+    Chemist - NoChange - TimeM - Thief !Flee
+        TimeM : Telepo
+        
+World Map
+    Retourner a Kelb
+    
+Kelb
+    Sortir par en bas
+    
+World Map
+    Retourner a Castle Bal
+    
+Castle Bal
+    Une fois sorti de l'eau, aller dans la maison a gauche en haut, boutique
+    Magie :
+        Droite :
+            Buy Return (3000GP)
+    Ressortir
+    Aller tout a droite, passer la porte sous le dragon
+    Tout droit en haut
+    Escaliers a droite
+    Passer la chambre vers Krile
+        Galuf : BlueM Optimize
+    Sortir escaliers au milieu
+    Sortie en bas
+    Cutscene
+    
+World Map
+    En haut, des qu'on peut sortir des montagnes, aller sur l'ile vers le haut : Guido's Cave
+    
+Guido's Cave
+    Cutscene
+    
+World Map
+    Aller vers l'eau juste un peu en bas a droite du Exdeath Castle (par Big Bridge), bateau au milieu du seul +
+    
+Ship
+    Cutscene, entrer dans le bateau par les escaliers juste au dessus
+    Aller tout en haut et descendre les escaliers
+    Porte a droite
+    TAKE A REST
+    *epic music * NoChange - Samurai - NoChange - NoChange
+    Sortir de la chambre
+    Ressortir par en haut
+    Again sortir par en bas
+    Parler a Zeza
+    
+    Fight 1 (Gobbldigoo)
+        $toss
+        
+    Un pas en bas, un pas a gauche, descendre jusqu'au niveau du bas du mat, droite
+    
+    Fight 2 (same mob)
+        $toss again
+        
+    Descendre, avant gilgamesh
+        NoChange  - TimeM - NoChange - BlueM Optimize
+        
+    Gilgamesh
+        TimeM : Haste Farris
+        Farris : Black Shock, si réussi : GobPunch sur A, puis L5 Doom sur Gilgamesh
+        Si not enough mana : TimeM : Return (reset le fight)
+        
+    Farris -> Thief !Flee
+    
+    Entrer dans le bateau
+    Idem meme trajet
+    Porte de gauche c'te fois
+    Viser le meme coffre de Zeza par le bas
+    Parler a Zeza, cutscene, sortir par la porte
+    Parler a Zeza, cutscene, aller en bas
+    
+Sous l'eau
+    Tout a gauche
+    
+Barrier Tower
+    Cutscene, bas, escalier montant tout a gauche
+    Tout droit
+    Chemin logique, coffre proche de la sortie, puis sortir (osef du 2e coffre)
+    Gauche, monter, porte
+    Chemin logique
+    Droite, monter, porte
+    Idem logique (osef du coffre)
+    Gauche, monter, porte, cutscene
+    CHemin logique
+    Droite, monter
+    Chemin logique
+    Gauche, monter, milieu, au milieu des escaliers : Farris -> Chemist + Dash, monter tout en haut, cutscene
+    
+    Atomos
+        Chemist : Def
+        TimeM : Haste BlueM
+        BlueM : Black Shock Atomos
+        
+        Une fois réussi :
+        TimeM : Rez A
+        BlueM : Lv5 Death
+        
+    Cutscenes ...
+    
+Sous l'eau
+    Droite, haut au niveau des rochers, longer un peu coté gauche, tourner a gauche au 2e corail, peu apres longer par le mur du haut, trouver un fucking cercle de corail
+    Sortir du submarine, Ferris -> Thief !Flee
+    
+Gill Shrine
+    En bas
+    En bas encore
+    Ouvrir le coffre milieu, fermer coffre haut-gauche, passer par la porte ouverte
+    Activer le bouton, retourner de la ou on est venu
+    Mettre la pierre dans le bas-gauche et passer la porte ouverte
+    Droite toute !
+    Bas-gauche, y a un passage secret, activer bouton, aller aux escaliers dévoilés
+    Bas-Gauche again ! puis passage secret a droite et sortie
+    Sauter sur la tortue dans l'eau
+    Aller au milieu et parler a la tortue, cutscene, TimeM : Return
+    
+Sous l'eau
+    Longer a droite toute, jusqu'au mur, passer vers le bas et longer la grotte en montant, sortir de l'eau
+    
+World Map
+    Ville juste a gauche quoi
+   
+Mua
+    Tout en haut au milieu, boutique
+    
+    Magie a droite : Old (6000 GP)
+    Magie au milieu : Rflect (6000 GP)
+    Magie a gauche : Fire3 (6000 GP) + Bolt3 (6000 GP)
+    Sortir
+    
+    Aller a l'auberge
+    Coté a gauche : Marchant a droite, Sell :
+        Gold Shield, Coral Sword x91 + x91 + x73, Ice Bow, Ancient Sword, Knife, Speed Drink (all), Hero Drink All, Hard body All, Moonring (garder un Dirk)
+        
+    Buy :
+        Maiden'sKiss : 21   1260GP
+        Eye Drop     : 11    220GP
+        Antidote     : 51   1530GP
+        Potion       : 31  11160GP
+        Phoenix Down : 21  21000GP
+        
+    Vendeur de gauche : Buy :
+        Holy Water   : 51   7650GP
+        Ether        : 21  31500GP
+        
+    Sortir
+    Aller a la boutique armure a droite
+    
+    Buy DiamondPlate x3 (18000GP)
+    
+    275k GP at the end
+    
+    Sortir de la ville
+    
+World Map
+    A droite, MEMO SAVE sur le pont, aller juste a droite
+    
+Great Forest of Mua
+    Cutscene, tout droit, osef du coffre et a droite, a l'arbre ayant un trou proche d'un coffre, action au niveau du trou, entrer dedans
+    Tout droit
+    Haut puis droite a fond, puis haut et meme chose avec l'arbre en haut du chemin
+    Tout droit AGAIN
+    Longer haut-gauche, droite au niveau du coffre tout en haut, cutscene, monter un peu haut-gauche, attendre le mog
+    Boire l'eau (ULTRA REGEN LOLILOL), attendre que le mog au niveau de l'entrée a droite se bouge pour sortir (pas besoin de parler)
+    A droite TOUTE, en haut apres le coffre et passer dans le petit chemin derrière l'arbre qu'on colle quasiment, cutscene, ENTRER DANS L'ARBRE
+    
+Elder's Tree
+    Samurai + DiamondPlate - Samurai + DiamondPlate - WhiteM - Samurai + DiamondPlate
+    WhiteM : Heal everyone, puis Samurai Optimize (BONEMAIL NEEDED !)
+    Avancer !
+    
+    SPAM $toss, revenir a la memo save si un mort
+    
+    Cutscenes again
+    
+    X-Death :
+        Phoenix Down Galuf (IL DOIT AVOIR BONEMAIL DONC CA VA LE TUER !)
+        
+    Cutscenes again, Galuf meurt
+    
+World Map
+    Longer le chemin vers le bas, passer le trou, descendre un peu, passer a droite vers Exdeath Castle. Poser le dragon un peu avant l'entrée, contre la montagne coté exterieur.
+    Une case avant le chateau :
+    
+    WhiteM Learning - Thief !Cntrl Optimize - Samurai Learning - Thief !Flee
+    
+    Entrer
+    
+Exdeath Castle
+    Porte direct en haut
+    En haut
+    L'escalier juste en bas
+    Suivre le chemin (haut, gauche, bas, gauche, cutscene, le chateau devient beau ! Entrée en haut
+    
+    Thief -> BlueM Flee
+    
+    SI MagicDrgn x1
+        Reina : Cntrl
+        Krile : $toss
+        Faris : Def
+        A : Reflect sur le dragon quand reina et krile sont prets
+        Reina : Lv2 Old
+        Faris : $toss !
+        
+        A : Thief !Flee - Reina : Knight
+    
+    Droite, descendre, tout a droite, descendre, suivre le chemin 
+    Tout en haut, porte tout a droite
+    Aller dans la lave, longer haut-gauche, aller en bas juste apres le 1e coffre pour remonter sur la terre ferme :D, bas, escaliers visibles
+    Faire s'arreter la plateforme vers le milieu, on veut aller tout droit omg !
+    Osef de la save, tout droit
+    Aller a gauche, osef du coffre, passer la porte visible
+    LE COULOIR LE PLUS DUR DE LA RUN !
+    Descendre les escaliers visibles tout proches
+    Aller dans la lave, sortir sur les 2e escaliers visibles
+    Aller a droite, LONGER LE MUR EXTERIEUR pour aller vers le bas, descendre les escaliers apres avoir fait demi tour quoi
+    MEMO SAVE HERE !
+    Tout droit en haut, WHO NEEDS CHEST WHEN U HAVE SWAG ?
+    Tout droit
+    Avance d'un pas puis menu :
+        NoCHange - NoChange - Thief !Blue - NoChange
+    
+    TOUT DROIT VERS EXDEATH !!!!!!
+    
+    X-Death
+        L2 Old puis L5 Doom
+        
+    Cutscenes AGAIN
+    
+World Map (World 3)
+    Monter Castle Tycoon
+    
+Castle Tycoon
+    Parler au garde, PUIS FUCKING TOUT DROIT
+    Cutscenes, suivre Krile
+    Parler a Krile, lui marcher dessus et ressortir
+    Tenter de partir droit vers le bas
+    Tout droit en bas
+    
+World Map
+    NoChange - Samurai !Blue Optimize
+    
+    Aller a la Pirate Cave (bas, gauche a mort, haut a mort)
+    
+Pirate Cave
+    Tenter de rentrer, dialogue chocobo
+    
+World Map
+    WITH CHOCOBO <3
+    Aller comme au Castle Tycoon, et continuer derrière, traverser la rivière, continuer le chemin pour aller derrière tule et ... oh un trou
+    
+    Antolyon
+        L2 Old puis L5 Doom
+        
+    Cutscene, on recupère Faris
+    
+    Continuer le chemin vers Guido's Cave
+    
+Guido's Cave
+    Entrer, parler a la tortue, dialogues bla bla bla
+    
+World Map
+    Aller Ancient Library (juste en dessous XD)
+    
+Ancient Library
+    Lot of dialogues, aller voir L'ULTIME POT DE REGEN, puis SORTIR DE CET ENDROIT !
+    
+World Map
+    Longer a gauche comme pour aller au desert, ce sera l'Elder Tree avant !
+    
+Elder Tree
+    Longer a gauche comme d'hab
+    
+World Map
+    Aller a Pyramid (une cutscene au desert mais osef)
+    
+Pyramid
+    Dernière case du petit couloir : menu
+    
+    Samurai - NoChange - Samurai Dash
+    
+    Tenter d'entrer puis FIGHT
+    
+    Gargoyle x2
+        $toss x3 !
+        
+    BlackM + FireRod - Sorcerer !Dustb + Dirk - BlacM Dash + FireRod
+    Potion pour heal le/les blessé/s
+    Trier item : Anti - Holy - Maiden - Phoenix - Eye - Ether - Potion - Elixir
+    
+    Entrer dans la pyramide !!!
+    Longer a gauche, passer la porte des le début visible, monter les escaliers
+    Descendre, Fire3 le fight, bouton mid, gauche puis droite, Fire3 avec l'autre BlackM, Potion les blessés, sortir de la salle en descendant puis a droite
+    Aller a droite (osef des coffres)
+    Premier passage, au combat faire Swordb Bolt3, attendre que Krile puisse attaquer normalement, def pour les BlackM, droite, monter puis droite des que possible, toucher au sarcophage, menu :
+    BlackM Krile + Ether for <60MP
+    
+    Mummy : Fire3 All x2
+
+    Phoenix Down le mort, puis popo full heal party !
+    Krile Thief !DustB
+    
+    Droit en haut !
+    Osef des savepoint
+    Passer le sarcophage, aller a gauche des que possible et suivre le chemin
+    Activer le bouton, passer, activer le 2e, passer en bas, activer le 3, passer en bas, monter escaliers a droite
+    Monter les escaliers au milieu
+    Prendre le coffre de droite, puis sortir par haut-gauche
+    Porte au milieu !
+    Aller tout droit et prendre le litograph, cutscenes, sortir de la zone
+    
+World Map
+    Aller vers Elder Tree, mais juste avant : 
+    Chemist !Black Optimize - Samurai !Blue - BlueM Dash + HairOrnament
+    Utiliser la supertente (Cottage), puis Memo Save
+
+Elder Tree
+    Cutscene
+    
+    Mellusion
+        Samurai !Blue : Black Shock
+        BlueM : Lv2 Old
+        Chemist : Sleep
+        BlueM : Lv5 Doom
+        
+    BlueM - dead lol - Bard !Blue - Thief !Flee
+    
+World Map
+    Aller au bateau (a droite de Castle Surgate)
+    
+    Cutscenes again
+
+    Foncer vers le haut et s'arreter a la première ile, aller dans la foret
+    
+Ville
+    Boutique de magie (faut monter)
+        Mini + Float
+        
+    Boutique d'armures
+        Sell :
+            Dancing Dirk    
+            Cornet
+            DiamondPlate x3
+            Power Wrist
+            HairOrnament
+            
+        Buy :
+            CrystlShield x1
+            
+    Passer derrière, passage secrer vers boutique 2
+    
+        Buy :
+            3x Winged Shoes
+            
+    Sortir du village
+
+World Map
+    Monter dans bateau volant
+    Foncer vers le haut puis premier trou visible vers la droite, tenter d'y aller
+    
+Dark Zone
+    Sortir du bateau par la gauche
+    Suivre le chemin (droite, puis haut dans l'eau), longer l'eau jusqu'a une porte, entrer
+    Sauter dans le truc
+    Descendre, porte en bas quoi
+    Tout droit en bas
+    Chaines a droite, puis a gauche, run a droite, puis chaine de gauche (pour les 3) et ofc passer la porte
+    Monter les escaliers coté gauche, passer la porte en haut 
+    Monter la chaine
+    Sortir en bas
+    Couloir de gauche : monter a fond
+    Descendre, LE POT MAGIQUE VOUS HEAL, puis sortir en bas
+    Aller sous le pont a droite, run en haut a mort
+    Monter a droite
+    Sortir de la ville par la droite
+    Longer a droite, monter puis passer a gauche, puis longer a droite a mort, puis en bas, arbre a trou, comme d'hab
+        avant de rentrer dans le trou :
+            Winged Shoes A
+            Reina WhiteM + Winged Shoes
+            Faris Chemist 
+            
+    Entrer dans le trou
+    
+    WoodSprite
+        BlueM : Lv2 Old
+        WhiteM : Rflect BlueM
+        Krile : Lv5 Doom
+        
+    Mini on Reina (why ? oO)
+    BlackM !Mix Optimize - Knight + CrystlShield - BlackM + FireRod - Thief !Flee + WingedShoes
+    
+    Entrer dans le trou sans combat !
+    Chemin logique
+    Longer a droite, tomber de la cascade et entrer dans le trou a gauche
+    MemoSave, ressortir en bas a gauche !
+    Passer sans aggro le robot (reset si aggro, run quand il monte), entrer dans la grotte a droite
+    Droit en haut
+    Au niveau du bouquin sur la table :
+        Faris : BlueM !Mix Optimize without Bonemail
+    Ouvrir le bouquin
+    
+    Apprehendr
+        !Mix Dark Matter + Elixir on Faris then B
+        Def for BlackM + Guard for Reina
+        !Mix Turtle Sheel + Holy Water on monster
+        !Mix Antidote + Holy on B
+        !Mix Antidote + Holy on B
+        !Mix Antidote + Holy on B
+        Fire3
+        Guard
+        !Mix Antidote + Holy on B
+        Fire3 en chaine par B
+        
+        Rez Krile if dead with B
+        
+        Thief !Flee + Winged Shoes - NoChanges everyone
+        
+    Sortir par en bas
+    Chemin logique
+    Tout droit
+    Au milieu MAIS PAR DERRIERE
+    Aller a la prison tout a droite
+        Samurai !Mix - TimeM WingedShoes - TimeM WingedShoes - NoChange
+        Krile : Float on B
+        Ether for >110MP on Reina and Krile
+        
+        Config : Combat Speed 1
+    Open teh cell
+
+    Catastroph
+        Old on boss, 
+        If it fails :
+            !Mix Holy + Antidote on Krile
+            Float on B if gravity
+            !Mix Holy + Antidote on Krile
+            Old again
+        If it works, wait 12 Can't Escape then Lv5 Doom
+        
+    NoChange + Winged Shoes - Knight Crystal Shield - Bard !$toss - Thief !Flee Winged Shoes
+    Config : Combat Speed 4
+    
+    Run droite, monter les escaliers
+    Monter
+    Droite
+    Droite encore
+    Gauche, entrer au milieu
+    Aller au niveau du trone, mettre !Mix a Faris + Winged Shoes, aller a gauche
+    
+    Halycanos
+        !Mix Holy + Antidote on B
+        !Mix Holy + Antidote on B
+        !Mix Holy + Antidote on B 
+        $toss Reina
+        Guard
+        !Mix Holy + Antidote on B
+        !Mix Holy + Antidote on B
+        $toss B
+        Def
+        $toss Reina
+        Guard
+        $toss B 
+        Def all except B
+        $toss B
+        
+    Maiden's Kiss everyone (cure frog)
+    Potion full heal Krile
+    Krile -> BlueM !Hide Winged Shoes
+    Faris -> !Flee Winged Shoes
+    
+    Porte a gauche
+    Escaliers au milieu
+    Aller en haut
+    
+    Twin Tania
+        Def
+        Hide
+        Après 4 attaques : sortir du Hide, il fera un Wind Slash
+        Lv5 Death after SUPACHARGE
+    
+    Phoenix Down on Reina
+    Reina WhiteM raise B and Faris, then Knight again with CrystlShield
+    Krile Samurai with Winged Shoes
+    
+    Monter TOUJOURS PLUS HAUT
+    Descendre, coté gauche descendre, droite, aller sur le sceau
+    Monter, droite, descendre, gauche, monter droite, sceau en haut
+    Gauche, monter, droite, monter en haut a droite, sceau un peu a gauche
+    Sceau en haut, suivre le chemin quoi
+    TOUT DROIT EN ENFER !
+    Cutscene
+    Avant de faire le con :
+    Faris -> !Mix Winged Shoes
+    
+    THIS IS TEH FINAL FIGHT BITCHES !!!!!
+    
+    X-Death
+        !Mix Maiden's Kiss + Holy Water on Boss
+    
+        Reina : Toujours Guard
+        
+        !Mix Antidote + Holy sur Krile x7, puis sur B x7
+        
+        Krile : $toss apres au moins 6 buff, sinon Def
+        B : $toss apres au moins 6 buff, sinon buff Krile si non buffé, sinon se buff
+        
+        
+        
+        
+        
+        
+        WELL DONE BITCH !
