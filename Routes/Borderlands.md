@@ -2,7 +2,7 @@
 
 Based on JayTOH [WR Run](http://www.twitch.tv/jaytoh/c/2002959) and his [notes](https://docs.google.com/file/d/0B8hC4VDxu_BDMV83RF92cXE4eFU/edit) too - few parts were modified
 
-_Personal note : Finished Part1 - Watching Part2 at 5min_
+_Personal note : Finished Part1 - Watching Part2 at 10min_
 
 ## Split 1 : Intro ##
 - Follow Claptrap 
@@ -120,3 +120,48 @@ _Personal note : Finished Part1 - Watching Part2 at 5min_
 - Mission Turn In: The Piss Wash Hurdle
 - Mission Accept: Return To Zed
 - Save warp
+
+## Split 8 : Turbines, Mine Key and Conveyor of Death ##
+- Mission Turn In: Return To Zed
+- Mission Accept: Sledge: Meet Shep
+- PW to Car
+- Go to Shep
+- Mission Turn In: Sledge: Meet Shep
+- Mission Accept: Sledge: The Mine Key
+- Mission Accept: Get The Flock Outta Here
+- Mission Accept: Braking Wind
+- Go to Rakk Hive
+- Lock Rakks with Space and kill them with car missiles
+- Challenge: Killing Spree
+- Run on skags
+- Challenge: Conveyor of Death
+- Activate Turbine A
+- Drive and activate Turbine C
+- Go in building
+- Open door, actiate note
+- Mission Turn In: Sledge: The Mine Key
+- Mission Accept: Sledge: To The Safe House
+- PW to Turbine B
+- Save warp when turbine activated
+
+## Split 9 : To the Lost Cave ##
+- Luck manipulate Bouncing Betty OR Longbow (the one you don't have)
+- Firestone Bounty Board
+- Mission Turn In: Get A Little Blood On The Tires
+- PW to Car
+- Go to Shep
+- Mission Turn In: Get The Flock Outta Here
+- Mission Turn In: Braking Wind
+- Go to Lost Cave
+- Split now
+- PW to shop
+- Buy Grenades first, then Grenade SDU
+- Sell : Everything that is not your shotgun and grenades mods and shield
+- Skill point to Slayer
+- Equip Bouncing Betty
+
+## Split 10 : Farming Level 12 ##
+- Buy grenades if necessary
+- Sell items if necessary
+- Kill first batch of crabs
+- Buy grenades
