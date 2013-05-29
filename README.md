@@ -8,4 +8,4 @@ Some random shit useful for speedrunning
 [Notes](https://github.com/Incalex/SpeedrunDatas/blob/master/Routes/Final%20Fantasy%20V.md) - Markdown design, Work In Progress
 
 ## Borderlands
-[Notes](https://github.com/Incalex/SpeedrunDatas/blob/master/Routes/Borderlands.md) - Markdown design, Work In Progress
+[Notes](https://github.com/Incalex/SpeedrunDatas/blob/master/Routes/Borderlands.md) - Markdown design, full notes.
