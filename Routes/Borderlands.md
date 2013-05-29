@@ -1,8 +1,7 @@
 # Borderlands #
 
-Based on JayTOH [WR Run](http://www.twitch.tv/jaytoh/c/2002959) and his [notes](https://docs.google.com/file/d/0B8hC4VDxu_BDMV83RF92cXE4eFU/edit) too - few parts were modified
+Based entirely on JayTOH [WR Run](http://www.twitch.tv/jaytoh/c/2002959) and his [notes](https://docs.google.com/file/d/0B8hC4VDxu_BDMV83RF92cXE4eFU/edit) too - few parts were modified
 
-_Personal note : Finished Part1 - Watching Part2 at 10min_
 
 ## Split 1 : Intro ##
 - Follow Claptrap 
@@ -389,192 +388,186 @@ _443'535xp is Lvl24 and ~10%_
 - Go left and murder bandits (use PW and grenades when appropriate - use SMG if you find one)
 - Save warp
 
-
-UNTIL HERE : JayTOH notes, it means I haven't checked this.
-
-## Split 22 - Boozies
+## Split 22 - Boozies ##
 - Buy ammo and grenades
-- Check for COMs
+- Check for better Class Mods
 - PW to Crazy Earl
 - Murder/toss grenade at skags to activate Intuition
 - Talk to Earl
 - Mission Turn In: Get Off My Lawn!
 - Mission Accept: Hair Of The Dog
+- Kill another skag for Intuition if possible
 - Go back to the New-U station
-- Allocate skillpoint to Slayer
 - Teleport to Outeryard
 - Get car
 - Drive right to Treacher's Landing
 - PW to Treacher's Landing
-- Murder 24 bandits and collect their boozies
-
-## Split 23 – Murder Krom
 - Buy ammo and grenades
-- Check for COMs
-- Teleport to Crazy Earl's
+- Allocate skillpoint to Slayer if you have some
+- Murder 24 bandits and collect their boozies
+- Save warp at 24 Bottle of Booze
+
+## Split 23 – Murder Krom ##
+- Buy ammo and grenades
+- Check for better Class Mods
+- Teleport to Crazy Earl's Scrapyard
+- Respec : Slayer -> Hit & Run -> High Velocity -> Quicksilver
 - PW to Crazy Earl
-- Murder/toss grenade at skags to activate Intuition
+- Murder skags to activate Intuition
 - Talk to Earl
 - Mission Turn In: Hair Of The Dog
 - Mission Accept: The Next Piece
 - Go back to the New-U station
-- RESPEC TO MURDER BUILD
 - Teleport to Underpass
-- Get car
-- U-turn into RCE
-- Drive straight to Krom's Canyon
+- Get Car
+- Go to Rust Commons East
+- Activate Outpost Middle of Nowhere
+- Drive to Krom's Canyon
 - Drive/boost over both fences
 - Drive to barrier
 - PW to Krom's Canyon
-- PW left, watch out for pipe
-- Toss BB at batch of bandits for Intuition (shoot if necessary)
-- Murder second bandit
-- Take a right
-- PW
-- Equip longbow
+- PW right when you choose path
 - Jump across cutscene trigger
+- Equip longbow
 - Grenade jump up ledge
+- Walk a little
 - PW to Krom
-- Murder Krom
+- Murder Krom while being REALLY close to him
 - Open chest
 - Loot that shit
+- Save warp
 
-## Split 24 – Tannis Again
+## Split 24 – Tannis Again ##
 - 90 degrees right
 - Teleport to the Underpass
-- Get car
+- Get Car
 - Drive to Tannis' place
-- PW to lefthand cliff thingy
-- Cut PW off early
 - Grenade jump up
-- Murder a Rakk
-- Go to Tannis
-- Murder a second Rakk
+- PW to Tannis
 - Talk to Tannis
 - Mission Turn In: The Next Piece
 - Mission Accept: Jaynistown: Secret Rendezvous
+- Save warp
 
-## Split 25 – Jaynistown → Murder Jaynis
+## Split 25 – Murder Jaynis ##
 - 180 degree turn and jump
+- Get new BB ! (no need to save warp for this mod if no luck, just often check)
 - Teleport to Middle Of Nowhere
-- Get car
-- Drive right to bridge & Claptrap
+- Get Car
+- Drive right to Bridge
 - Talk to Claptrap
-- leftysheroes' jump 
-- Get car
+- Run ~1sec after Claptrap finished talking 
 - Drive to and activate the Cauldron Outpost
 - Drive to Taylor Kobb
-- Intuition off spiderant to Taylor Kobb
+- PW to Taylor Kobb
 - Mission Turn In: Jaynistown: Secret Rendezvous
 - Mission Accept: Jaynistown: A Brother's Love
 - Go back to the car
 - Drive to Jaynistown
-- PW to Jaynis Kobb
-- Murder Jaynis Kobb
-- Pick up Jaynis' Meatgrinder gun
-((((CAR MURDER IF NO DECENT WEAPON FOUND))))
+- Safe strat : Push car over barrier then run over Jaynis Kobb
+- Or : PW to Jaynis Kobb and kill him
+- Save warp
 
-## Split 26 – New Haven → Container
+## Split 26 – IT'S A TRAP ... owait ##
 - 90 degrees left
 - Buy ammo and grenades
-- Check for COMs
-- Sell excess stuffs
-- PW and Intuition off spiderant to Taylor Kobb
+- Check for Class Mod and BB
+- Sell useless stuff
+- PW to Taylor Kobb
 - Mission Turn In: Jaynistown: A Brother's Love
 - Mission Accept: Jaynistown: Spread The Word
 - Go back to New-U station
 - Teleport to New Haven
 - 180 degrees
-- PW to Erik Franks
+- Walf to Erik Franks
 - Mission Turn In: Jaynistown: Spread The Word 
 - Mission Accept: Jaynistown: Getting What's Coming To You
-- Go to the container to the left (north)
+- PW to the container to the left (north)
 - Mission Turn In: Jaynistown: Getting What's Coming To You
 - Mission Accept: Jaynistown: Unintended Consequences
+- Save warp
 
-## Split 27 – Murder Taylor
-- 180 degrees
-- PW to Helena Pierce
+## Split 27 – Murder Taylor ##
+- Walk to Helena Pierce
 - Mission Turn In: Jaynistown: Unintended Consequences
 - Mission Accept: Jaynistown: Cleaning Up Your Mess
 - Mission Accept: Smoke Signals: Investigate Old Haven
-- Teleport to the Cauldron
-- 90 degrees left
+- Teleport to The Cauldron
 - Get car
-- Flip to Jaynistown
+- Push car over Jaynistown barrier
 - Car murder Taylor Kobb
 - Pick up RL if $$ necessary
+- Save warp
 
-## Split 28 – Murder Rakk Hive
-- 180 degree turn
-- PW and Intuition to Trash Coast
+## Split 28 – Murder Rakk Hive ##
+- PW to Trash Coast
 - Grenade jump up tent/path
 - Talk to Claptrap
-- Allocate skill point to Slayer
 - Mission Accept: Another Piece Of The Puzzle
 - Enter Trash Coast
-- Respect to Murder Build
+- Respec : Quicksilver - Slayer -> Enforcer -> High Velocity - Resilience (if lv26)
 - PW and buy ammo if necessary 
-- Take right side of mountain thing hill thing
-- Murder spiderant for Intuition
+- Left side
+- Kill some spiderants if not LV 26, PW directly when Level Up
 - PW to Rakk Hive
-- Equip Merc COM
 - Jump past cutscene trigger
-- Murder Rakk Hive
+- Murder Rakk Hive (save warp if you die)
 - PW to mountain cave thing
 - Open chest
-- Loot that shit
+- Loot everything
+- Save warp
 
-## Split 29 – Tannis Yet Again
-- 180 degrees left
+## Split 29 – Tannis Yet Again ##
 - Teleport to the Underpass
 - Get car
 - Drive to Tannis' place
 - PW to lefthand cliff thingy
-- Cut PW off early
 - Grenade jump up
-- Murder a Rakk
 - Go to Tannis
-- Murder a second Rakk
 - Talk to Tannis
 - Mission Turn In: Another Piece Of The Puzzle
 - Mission Accept: Not Without My Claptrap
+- Save warp
 
-## Split 30 – Rakk Hive Leveling til 790,489exp
-- 180 degree
-- Allocate skillpoint(s) to Hit & Run
-- Equip Mercenary COM
+## Split 30 – Rakk Hive farm until 790'489xp ##
+_790'489xp is Lvl29 and almost 60%_
+
 - PW to vendor
-- MUST LM level 25 corrosive and normal BBs and buy ammo&grenades
+- Check for Level 25 Corrosive and normal BB
 - Buy ammo and grenades
+- Respec Quicksilver -> Resilience -> Intuition - Slayer -> Enforcer
 - Teleport to Trash Coast
-- PW (to ammo if necessary)
-- Take right side of mountain thing hill thing
-- Murder spiderant for Intuition
+- Check again for Level 25 Corrosive and normal BB
 - PW to Rakk Hive
-- Equip Merc COM if not equipped
-- Murder Rakk Hive
-Must be level 31 (899,363exp) for the Destroyer.
-Or, must have 878,963exp before reaching the Destroyer.
-– 61,500exp from quests (Not Without My Claptrap → Reactivate the ECHO Comm System + Smoke Signals: Investigate Old Haven)
-– @ level 30 = 356x4 = 1,424exp from 4 cars
-– @ level xx = 0exp from Flynt
-– @ level 30 = 4,900 + 4,900 + 15,750 = 25,550exp from McCloud and friends
-= 88,474exp → 
-~790,489exp
+- Kill one spiderant for Intuition
+- Kill spiderants for Level 28 if you almost have it after first Rakk Hive farmkill
+- Murder Rakk Hive (KILL A RAKK BEFORE FINISHING Rakk Hive FOR XP BONUS !)
+- Save warp
+>JayTOH notes :  
+>Must be level 31 (899,363exp) for the Destroyer.  
+Or, must have 878,963exp before reaching the Destroyer.  
+– 61,500exp from quests (Not Without My Claptrap → Reactivate the ECHO Comm System + Smoke Signals: Investigate Old Haven)  
+– @ level 30 = 356x4 = 1,424exp from 4 cars  
+– @ level xx = 0exp from Flynt  
+– @ level 30 = 4,900 + 4,900 + 15,750 = 25,550exp from McCloud and friends  
+= 88,474exp → ~790,489exp  
+Incalex precision :  
+You should need about 3 Rakk Hive kills
 
-## Split 31 – C/BBs + Old Haven
-- MUST LM level 25 corrosive and normal BBs and buy ammo&grenades
-- 180 degree
+## Split 31 – Old Haven ##
+- Check again for Level 25 Corrosive and normal BB
+- Buy ammo and grenades
 - Teleport to the Cauldron
-- 90 degree left
-- Get car
+- Check again for Level 25 Corrosive and normal BB
+- Get Car
 - Drive to Old Haven
 - Enter Old Haven
 - ”Talk” to dead bodies
 - Mission Turn In: Smoke Signals: Investigate Old Haven
+- Respec Diva -> Inner Glow -> Hard to Get - Slayer -> Hit & Run
 - Run to vendor
-- Check for level 25 Corrosive grenades and buy ammo&grenades
+- Check again for Level 25 Corrosive and normal BB
+- MUST Luck Manipulate level 25 Corrosive and normal BB 
 - PW through Old Haven
 - Take left intersection
 - Barrel jump that shit
@@ -583,51 +576,51 @@ Or, must have 878,963exp before reaching the Destroyer.
 - Wait for Claptrap, then talk to his ass
 - Mission Turn In: Not Without My Claptrap
 - Mission Accept: The Final Piece
+- Save warp
 
-## Split 32 – Salt Flats → Murder Baron Flynt
-- 180 degrees left
+## Split 32 – Murder Baron Flynt ##
 - Leave Old Haven
-- PW right to car
-- Get car
-- U-turn and enter Salt Flats
+- PW to Car
+- Get Car
+- Go to Salt Flats
 - Drive past saving pole
 - Car murder 4 cars
 - Drive to the Thor
-- PW to RED CHEST AND CHECK
-- Go up elevator
+- PW to elevator
 - Equip Sledge's shotgun
 - Grenade jump up tarps
-- Murder Baron Flynt
-- Take Boom Stick
+- Grab Baron Flynt with you
+- MAKE HIM FLY !
 - Open chest
 - Mission Turn In: The Final Piece
 - Mission Accept: Get Some Answers
+- Save warp
 
-## Split 33 – Backdoor → Enclave
-- 180 degree right
+## Split 33 – Enclave ##
 - PW to Zed's vendoring machine
-- LM a good ass shield
+- LM a good ass shield (375-400)
+- Skillpoint on Hit & Run
 - Get car
-- Drive to the Backdoor
-- PW to the entrance
+- Drive to The Backdoor 
 - Enter the Backdoor
 - PW straight
 - Grenade jump up
 - PW to vendor
-- Buy ammo, grenades, and purple grenade SDU
+- Open chests
+- Buy ammo, grenades, and Purple grenade SDU
 - Allocate skill points to Enforcer
-- Equip Mercenary COM, shield, and corrosive grenadess
+- Equip Corrosive grenades
 - Activate thing
 - Toss corrosive grenadess preemptively
 - Murder McCloud and his friends
-- Enter Crimson Enclave base
+- Enter Crimson Fastness
 - PW through door and take a sharp right
 - Go through the place normally
 - Go down the stairs
 - Open the door
 - Go through normally
 - Jump over guardrail
-- Talk to Tannis
+- Talk to Tannis FAST
 - Mission Turn In: Get Some Answers
 - Mission Accept: Find The Echo Command Console
 - Go through door
@@ -636,42 +629,39 @@ Or, must have 878,963exp before reaching the Destroyer.
 - Mission Turn In: Find The Echo Command Console
 - Mission Accept: Reactivate the ECHO Comm System
 - Go to door
-- PW to Crimson Enclave entrance
+- PW to Crimson Enclave
 - Enter Crimson Enclave
 
-## Split 34 – ECHO Comm System
-- (Respec to PW build)
+## Split 34 – ECHO Comm System ##
 - PW to tower
 - PW again
 - Activate ECHO Comm System
+- Save warp until quest finished
 
-## Split 35 – Find Steele (Enter the Vault)
-- 180 degrees left
-- Go back into Crimson base
+## Split 35 – Enter the Vault ##
+- Go back into Crimson Fastness
 - Don't PW until door opens
 - PW to computer thingy
 - Mission Turn In: Reactivate the ECHO Comm System
-- Go back to the New-U Station
+- Walk to Crimson Enclave
 - Mission Accept: Find Steele
-- Buy ammo and grenades (sell if necessary)
-- Allocate skill point to Hit & Run
-- Equip BBs and Boom Stick
-- Unequip other weapons
+- Enter Crimson Enclave 
 - Teleport to Salt Flats
-- PW to car
+- PW to Car  
 - Drive to the Descent
 - PW to the Descent
 - Enter the Descent
 - PW to Eridian Promontory
 - Enter Eridian Promontory
-- PW to the Destroyer
-- PW to the Destroyer
-- PW to the Destroyer
-- Enter the Vault AND IMMEDIATELY SAVEWARP!!!!
+- 3xPW to the Destroyer
+- Enter the Vault
 
 ## Split 36 – Murder the Destroyer
-- Run up to the altar during the cutscene
+- If you're not Lv31, you're fucked, and you can go back to farm one Rakk Hive
+- Respec Quicksilver -> Resilience - Slayer -> Enforcer -> High Velocity
+- Equip BB
 - Murder the Destroyer
-- Take names
-- Take world records
-- bitches
+ - Throw BB when Destroyer's mouth is open
+ - Destroy dem tentacles
+- WELL DONE BITCHES, Save warp, SPLIT !
+- Do everything again until World Record
