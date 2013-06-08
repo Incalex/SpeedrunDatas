@@ -146,4 +146,152 @@ Top, Right, Left, Left
 
 ### Cavern of Ice ###
 B1 : EZ  
-B2 : Left
+B2 : Left, stairs left  
+B3 : SO HARD OMG !  
+B2 : Left, Straight up then fall  
+B2? : Right-Down, take damage, heal white mage, (left)down, right
+B1 : Right-Down, enter in da room, straight up  
+B2 : Touch crystal thing
+
+#### Evil Eye ####
+Wait until he kills everyone (except White Mage) to kill him.
+
+## Split 11 : Level 33 ##
+#### Evil Eye ####
+FARM DAT BITCH  
+Revive Thief when WMage level 22  
+Revive everyone else when WMage level 33, then split, then full heal everyone.
+
+## Split 12 : Cube ##
+### Cavern of Ice ###
+B2 : Fall down  
+B3 : Same path
+B2 : Right-Top this time
+
+### Ryukahn Desert ###
+Cutscene, TAKE DA AIRSHIP and let's fly high BITCHES !  
+
+### Caravan ### 
+Buy the Zelda Fairy in da bottle ... wait it's not Zelda !  
+
+### Gaia ###
+Cutscene, Left untix exit, top until second forest path to the right, then talk to the fairy, down, right
+
+### Waterfall Cavern ###
+Left, left, left, top-left, down, take teh Warp cube from strange robot
+
+## Split 13 : Rosetta Stone ##
+### Waterfall Cavern ###
+Same (inverted) path :  
+Right, Bottom-Right, Down, Right, Down-Right
+
+### Onrac ###
+Buy Healaga  
+Take the ... barrel submarine ?
+
+### Sunken Shrine ###
+3F : Top until wall, Right, stairs  
+4F : Down until wall, Left until wall, Down, Right, stairs down  
+5F : Top, Left, Top, Left, Down, Left, Right chest
+
+## Split 14 : Kraken ##
+### Sunken Shrine ###
+5F : Same path, backwards  
+4F : Same path, backwards  
+3F : Left, Left, Top-Left stairs  
+2F : Top
+3F : OMG IT'S SO HARD !!!  
+4F : Right, down stairs  
+3F : Down ALL TEH WAY !  
+2F : Left, Left, Top, Left, enter, open chest from right ?
+
+Equipement Glitch with Light axe : 
+>Invert Thief/Warrior
+>Survival vest instead of Black Grab for Thief and White Mage
+>Invert Thief/Warrior
+>Survival vest instead of Black Grab for Red Mage
+
+2F : Right, Right, Top, Left  
+1F : Top-left, Top, Top, Left, Top door, top, left, top door, ANOTHER CRYSTAL !!!!!111!1!1!1
+
+#### Kraken ####
+Normal Attacks are so op Kappa  
+
+## Split 15 : Chime ##
+### Melmond ###
+Top, then left, talk to men close to tombs  
+
+### Lufenia ##
+Top, right until wall, down and left, talk to strange guy
+
+## Split 16 : Tiamat ##
+### Mirage Tower ###
+1F : Top door, left door, down stairs  
+2F : Right, (left side) , top-right, right, stairs
+3F : Right, door, warp thing
+
+### Flying Fortress ###
+1F : Left, top, top, warp  
+2F : Down until warp  
+3F : Left, down warp  
+4F : Top, top, left until warp  
+5F : Full heal, straight up  
+
+#### Tiamat ####
+Spam normal Attack ... OMG THERE IS NO REAL CHALLENGE HERE ?
+
+## Split 17 : Marilith ##
+### Mount Glug ###
+B1 : Left (lava), top stairs  
+B2 : Straight Left  
+B3 : Right all the time  
+B4 : Bottom Right  
+B3 : Down, Left, Down, Left  
+B4 : Down, Down  
+B5 : Left, Down in lava, Bottom left, enter in room, DIS IZ TEH LAST ONE !
+
+#### Marilith ####
+Lol ... guess ... easy ... NORMAL ATTACK AGAIN !
+
+## Split 18 : Phantom ##
+### Elfheim ###
+Buy (black magic) Haste
+
+
+### Chaos Shrine ###
+Straight up, activate(?) orb, warp  
+1F : Full heal party, Ether on White Mage and Red Mage, down until wall, right, stairs bottom-right  
+2F : Right stairs  
+3F : Down, down, right, top door, Death Eye fight (spam attack)
+
+## Split 19 : Lich ##
+### Chaos Shrine ###
+3F ; Up, activate tablet (?), warp  
+2F : Down then left until wall, up until wall  
+1F : Left, top-left stairs  
+B1 : Straight right until wall, down, down-right stairs, Lich fight (spam attack)
+
+## Split 20 : Marilith ##
+### Chaos Shrine ###
+B2 : Left then top, door, left x3 then down (door), down then left, then up stairs, Marilith fight (spam attack, haste on thief)
+
+## Split 21 : Kraken ##
+### Chaos Shrine ###
+B3 : Down, Left, left door, down (door) until wall, right, Kraken fight (spam attack, haste on thief), right stairs
+
+## Split 22 : Tiamat ##
+### Chaos Shrine ###
+B4 : Right, Tiamat fight (spam attack, haste on thief)
+
+## Split 23 : Chaos ##
+### Chaos Shrine ###
+B4 : Top, stairs  
+B5 : Left, down, down-right, right, BEFORE DOOR :
+>White Mage Dragon Mail on Helmet and Gloves
+>Invert Thief/Red Mage
+>Ether on mages
+
+#### Chaos ####
+White Mage : Healaga everytime   
+Red Mage : Haste Thief, then Warrior, then himself, then normal attack  
+Else : Normal attack
