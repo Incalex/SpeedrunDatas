@@ -12,10 +12,9 @@ Go to menu : Dash ON, Cursor MEMORY, Message Speed FAST
 Equipement Glitch with Hammer :  
 >1 Knight Armor (everyone)  
 >2 more on Warrior to unequip  
-
-Buy Cure for White Mage (maybe not necessary)  
+  
 Sell 2 Knight Armor  
-Buy 21 Antidote, 11 Phoenix Down  
+Buy 99 Potions (not cure), 21 Antidote, 11(or 21) Phoenix Down  
 Talk to soldier, cutscene, go out
 
 ### Chaos Shrine ###
@@ -32,7 +31,6 @@ Spam normal attack
 Don't forget to talk to da bitch for teh lute
 
 ### Pravoka ###
-Buy 99 Ether  
 Murder pirates (4x Flare)
 
 ## Split 03 : Crown ##
@@ -87,7 +85,7 @@ Right chest room : open right chest
 Left chest room : open right chest  
 
 Equipement glitch with Mythril Knife
->Make 2 Black Robe but unequip them and take back your Thief's Armlet
+>Make 2 Black Robe but unequip them and take back your Thief's Armlet  
 
 ### Mount Duergar ###
 Explode everything
@@ -134,8 +132,8 @@ Normal Attacks again ...
 Buy Mythril Axe 
 
 Equipement Glitch with Mythril Axe
->Black Grab on Helmet and Gloves for Thief and White Mage
->Switch Thief/Knight
+>Black Grab on Helmet and Gloves for Thief and White Mage  
+>Switch Thief/Knight  
 >Black Grab on Helmet and Gloves for Red Mage
 
 Talk to old people (2nd right side from bottom)
@@ -149,7 +147,7 @@ B1 : EZ
 B2 : Left, stairs left  
 B3 : SO HARD OMG !  
 B2 : Left, Straight up then fall  
-B2? : Right-Down, take damage, heal white mage, (left)down, right
+B2? : Right-Down, take damage, heal white mage, (left)down, right  
 B1 : Right-Down, enter in da room, straight up  
 B2 : Touch crystal thing
 
@@ -165,7 +163,7 @@ Revive everyone else when WMage level 33, then split, then full heal everyone.
 ## Split 12 : Cube ##
 ### Cavern of Ice ###
 B2 : Fall down  
-B3 : Same path
+B3 : Same path  
 B2 : Right-Top this time
 
 ### Ryukahn Desert ###
@@ -186,16 +184,19 @@ Same (inverted) path :
 Right, Bottom-Right, Down, Right, Down-Right
 
 ### Onrac ###
+Buy 99 Ethers  
 Buy Healaga  
 Take the ... barrel submarine ?
 
 ### Sunken Shrine ###
+Use the Black Robes (Blizzara) on Sunken Shrine instead of Flare  
 3F : Top until wall, Right, stairs  
 4F : Down until wall, Left until wall, Down, Right, stairs down  
 5F : Top, Left, Top, Left, Down, Left, Right chest
 
 ## Split 14 : Kraken ##
 ### Sunken Shrine ###
+Use the Black Robes (Blizzara) on Sunken Shrine instead of Flare  
 5F : Same path, backwards  
 4F : Same path, backwards  
 3F : Left, Left, Top-Left stairs  
@@ -206,10 +207,10 @@ Take the ... barrel submarine ?
 2F : Left, Left, Top, Left, enter, open chest from right ?
 
 Equipement Glitch with Light axe : 
->Invert Thief/Warrior
->Survival vest instead of Black Grab for Thief and White Mage
->Invert Thief/Warrior
->Survival vest instead of Black Grab for Red Mage
+>Invert Thief/Warrior  
+>Survival vest instead of Black Grab for Thief and White Mage  
+>Invert Thief/Warrior  
+>Survival vest instead of Black Grab for Red Mage (maybe on everything)  
 
 2F : Right, Right, Top, Left  
 1F : Top-left, Top, Top, Left, Top door, top, left, top door, ANOTHER CRYSTAL !!!!!111!1!1!1
@@ -227,7 +228,7 @@ Top, right until wall, down and left, talk to strange guy
 ## Split 16 : Tiamat ##
 ### Mirage Tower ###
 1F : Top door, left door, down stairs  
-2F : Right, (left side) , top-right, right, stairs
+2F : Right, (left side) , top-right, right, stairs  
 3F : Right, door, warp thing
 
 ### Flying Fortress ###
@@ -277,6 +278,7 @@ B2 : Left then top, door, left x3 then down (door), down then left, then up stai
 
 ## Split 21 : Kraken ##
 ### Chaos Shrine ###
+Use the Black Robes (Blizzara) on Sunken Shrine instead of Flare  
 B3 : Down, Left, left door, down (door) until wall, right, Kraken fight (spam attack, haste on thief), right stairs
 
 ## Split 22 : Tiamat ##
@@ -287,9 +289,9 @@ B4 : Right, Tiamat fight (spam attack, haste on thief)
 ### Chaos Shrine ###
 B4 : Top, stairs  
 B5 : Left, down, down-right, right, BEFORE DOOR :
->White Mage Dragon Mail on Helmet and Gloves
->Invert Thief/Red Mage
->Ether on mages
+>White Mage Dragon Mail on Helmet and Gloves  
+>Invert Thief/Red Mage  
+>Ether on mages  
 
 #### Chaos ####
 White Mage : Healaga everytime   
