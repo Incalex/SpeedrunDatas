@@ -1,5 +1,7 @@
 # Borderlands #
 
+## JAYTOH NOTES ARE MORE UPDATED THAN MINE SO IGNORE THOSES NOTES AND GO [THERE](https://docs.google.com/document/d/1SyLinQIginFWDG8FeUc6ZFdJ7kRu8FJLW9LKXlgVM5w/edit) ##
+
 Based entirely on JayTOH [WR Run](http://www.twitch.tv/jaytoh/c/2002959) and his [notes](https://docs.google.com/file/d/0B8hC4VDxu_BDMV83RF92cXE4eFU/edit) too - few parts were modified
 
 
